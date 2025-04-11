@@ -14,4 +14,9 @@ this file is added in the stagging environment
 this command unstage the file from the git stagging environment 
 
 6).git commit -m " first commit by omkar"
-add the files to the remote repository 
+add the files to the remote repository with message 
+
+7).git log 
+represent the commit history with time Author
+
+8).
