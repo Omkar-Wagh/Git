@@ -19,4 +19,12 @@ add the files to the remote repository with message
 7).git log 
 represent the commit history with time Author
 
-8).
+8).git commit -a -m "Another Commit Without Stagging Environment"
+skips the stagging environment and commit to the main 
+
+9).git diff
+specifies the changes in the file location
+git diff --staged
+for the files which are at the stagging environment
+
+10).
