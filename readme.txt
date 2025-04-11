@@ -31,4 +31,11 @@ specifies the changes in the file location
 git diff --staged
 for the files which are at the stagging environment
 
-10).
+10).git rm --cached credentials.txt
+removes the file from the remote repository and then 
+we can remove it from the local working directory 
+
+11).git push -u origin main
+pushes the code to  the remote repository
+but before that we need to to ahve access rights for the e,ote repository
+
