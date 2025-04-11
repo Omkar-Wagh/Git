@@ -10,6 +10,9 @@ by default will have the git as master branch but we want to make it as main
 adding files to the project
 this file is added in the stagging environment
 
+git add .
+add all files to the stagging environment
+
 5).git rm --cached readme.txt
 this command unstage the file from the git stagging environment 
 
@@ -24,6 +27,7 @@ skips the stagging environment and commit to the main
 
 9).git diff
 specifies the changes in the file location
+
 git diff --staged
 for the files which are at the stagging environment
 
