@@ -39,4 +39,12 @@ we can remove it from the local working directory
 pushes the code to  the remote repository
 but before that we need to to ahve access rights for the e,ote repository
 
-12).
+12).git push origin main
+addling the updates that will reflect to the main origin 
+
+git remote add origin https://github.com/your-username/your-repo.git
+git push -u origin main
+if commiting for the first time
+
+13).ssh-keygen -o
+used to generate SSH key pairs with enhanced security
