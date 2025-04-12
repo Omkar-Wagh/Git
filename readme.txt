@@ -56,3 +56,31 @@ add -> commit -> push
 15).git push origin v1.0
 update the tags on remote repo
 
+16).git checkout -b feature1
+creates the new branch other than the main
+
+17).git checkout -b feature1
+moves to the branch feature1 
+
+git branch 
+specifies the number of branches and the current branch with * sign 
+
+git switch main 
+switch to the main branch 
+
+git switch feature1 -c feature2
+switch to the new branch 
+
+git switch -
+switch to the previous branch 
+
+18).git branch -d feature2
+deltes the branch with branch name 
+
+19).git push origin feature1
+pushes the branch to the remote repo
+
+20).git merger feature1
+merges the branch to the main 
+but before we need to be present inside the main branch 
+
