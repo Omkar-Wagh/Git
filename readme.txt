@@ -50,3 +50,9 @@ if commiting for the first time
 used to generate SSH key pairs with enhanced security
 
 14).git tag -a v1.0 -m "version 1.0"
+represents the versions of made each time 
+add -> commit -> push 
+
+15).git push origin v1.0
+update the tags on remote repo 
+
