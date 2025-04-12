@@ -84,3 +84,27 @@ pushes the branch to the remote repo
 merges the branch to the main 
 but before we need to be present inside the main branch 
 
+other branch too can be oushed to the remote repo from using 19) point
+
+21).git pull origin main 
+pulls the main branch on local directory
+
+22).git stash 
+saves without commiting the code
+
+23) fork 
+fork is similar like having the copy of other developers remote repo on our
+repo 
+
+clone the project on terminal
+make changes in it 
+git add .
+git commit -m "update comments"
+git push origin main
+but this changes our applied on our own account and not 
+on developer account for that 
+we need to send the pull request 
+ create the pull request to the base repository[developer]
+create pull request 
+and pull request is send
+now developer will accept and "merge pull request"
