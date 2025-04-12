@@ -48,3 +48,5 @@ if commiting for the first time
 
 13).ssh-keygen -o
 used to generate SSH key pairs with enhanced security
+
+14).git tag -a v1.0 -m "version 1.0"
