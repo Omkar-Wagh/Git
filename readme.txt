@@ -54,5 +54,5 @@ represents the versions of made each time
 add -> commit -> push 
 
 15).git push origin v1.0
-update the tags on remote repo 
+update the tags on remote repo
 
